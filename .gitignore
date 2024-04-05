@@ -30,6 +30,8 @@ DerivedData/
 *.dSYM.zip
 *.dSYM
 
+.swiftpm
+
 ## Playgrounds
 timeline.xctimeline
 playground.xcworkspace
@@ -88,3 +90,4 @@ fastlane/test_output
 # https://github.com/johnno1962/injectionforxcode
 
 iOSInjectionProject/
+.swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata

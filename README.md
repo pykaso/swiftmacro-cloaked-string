@@ -1,4 +1,4 @@
-## Overview
+## CloakedString
 
 This project presents an extension to the Swift `#cloaked` macro, which is designed to improve the security of open text strings in Swift applications. By converting strings to `Data` format using the `UInt8` field, it makes it much harder to easily extract strings from a decompressed application. This method is particularly useful for protecting sensitive data and strings in Swift projects from reverse engineering efforts.
 
